@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GymSys" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GymSys" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GymSys" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Clases.h" />
+		<Unit filename="Clientes.h" />
+		<Unit filename="Configuracion.h" />
+		<Unit filename="Cupo_x_Clase.h" />
+		<Unit filename="Dieta.h" />
+		<Unit filename="Domicilio.h" />
+		<Unit filename="Ejercicios.h" />
+		<Unit filename="Ejercicios_x_Rutina.h" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Funciones Globales.h" />
+		<Unit filename="Medidas.h" />
+		<Unit filename="Pagos.h" />
+		<Unit filename="Reportes.h" />
+		<Unit filename="Rutina.h" />
+		<Unit filename="Rutina_x_Cliente.h" />
+		<Unit filename="Usuarios.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

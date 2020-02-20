@@ -1,0 +1,359 @@
+# depslib dependency file v1.0
+1540824390 source:e:\mis documentos\gymsys\gymsys\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<clocale>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Funciones Globales.h"
+	"Clases.h"
+	"Usuarios.h"
+	"Fecha.h"
+	"Dieta.h"
+	"Medidas.h"
+	"Clientes.h"
+	"Ejercicios.h"
+	"Rutina.h"
+	"Ejercicios_x_Rutina.h"
+	"Pagos.h"
+	"Configuracion.h"
+	"Reportes.h"
+	"Domicilio.h"
+
+1541025997 e:\mis documentos\gymsys\gymsys\clases.h
+
+1541025469 e:\mis documentos\gymsys\gymsys\funciones globales.h
+
+1540510952 e:\mis documentos\gymsys\gymsys\usuarios.h
+
+1540509963 e:\mis documentos\gymsys\gymsys\fecha.h
+
+1541026043 e:\mis documentos\gymsys\gymsys\dieta.h
+
+1540510951 e:\mis documentos\gymsys\gymsys\medidas.h
+
+1541025734 e:\mis documentos\gymsys\gymsys\clientes.h
+
+1540770130 e:\mis documentos\gymsys\gymsys\ejercicios.h
+
+1541025409 e:\mis documentos\gymsys\gymsys\rutina.h
+
+1540510951 e:\mis documentos\gymsys\gymsys\pagos.h
+
+1539445934 e:\mis documentos\gymsys\gymsys\caja.h
+
+1540510951 e:\mis documentos\gymsys\gymsys\configuracion.h
+
+1540826473 e:\mis documentos\gymsys\gymsys\reportes.h
+
+1540510952 e:\mis documentos\gymsys\gymsys\ejercicios_x_rutina.h
+
+1540513542 e:\mis documentos\gymsys\gymsys\domicilio.h
+
+1542285987 source:c:\users\administrador\desktop\gymsys\gymsys\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<clocale>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Funciones Globales.h"
+	"Clases.h"
+	"Usuarios.h"
+	"Fecha.h"
+	"Dieta.h"
+	"Clientes.h"
+	"Medidas.h"
+	"Ejercicios.h"
+	"Rutina.h"
+	"Ejercicios_x_Rutina.h"
+	"Pagos.h"
+	"Configuracion.h"
+	"Reportes.h"
+	"Domicilio.h"
+	"Cupo_x_Clase.h"
+	"Rutina_x_Cliente.h"
+
+1542152291 c:\users\administrador\desktop\gymsys\gymsys\funciones globales.h
+
+1542287707 c:\users\administrador\desktop\gymsys\gymsys\clases.h
+
+1542225132 c:\users\administrador\desktop\gymsys\gymsys\usuarios.h
+	<conio.h>
+
+1542284162 c:\users\administrador\desktop\gymsys\gymsys\fecha.h
+
+1542290440 c:\users\administrador\desktop\gymsys\gymsys\dieta.h
+
+1542284650 c:\users\administrador\desktop\gymsys\gymsys\medidas.h
+
+1542284414 c:\users\administrador\desktop\gymsys\gymsys\clientes.h
+
+1542287502 c:\users\administrador\desktop\gymsys\gymsys\ejercicios.h
+
+1542287502 c:\users\administrador\desktop\gymsys\gymsys\rutina.h
+
+1542287163 c:\users\administrador\desktop\gymsys\gymsys\ejercicios_x_rutina.h
+
+1542227193 c:\users\administrador\desktop\gymsys\gymsys\pagos.h
+
+1542227891 c:\users\administrador\desktop\gymsys\gymsys\configuracion.h
+
+1542228423 c:\users\administrador\desktop\gymsys\gymsys\reportes.h
+
+1542061601 c:\users\administrador\desktop\gymsys\gymsys\domicilio.h
+
+1541782036 source:c:\users\pcliving\desktop\gymsys\gymsys\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<clocale>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Funciones Globales.h"
+	"Clases.h"
+	"Usuarios.h"
+	"Fecha.h"
+	"Dieta.h"
+	"Medidas.h"
+	"Clientes.h"
+	"Ejercicios.h"
+	"Rutina.h"
+	"Ejercicios_x_Rutina.h"
+	"Pagos.h"
+	"Configuracion.h"
+	"Reportes.h"
+	"Domicilio.h"
+	"Cupo_x_Clase.h"
+	"Rutina_x_Cliente.h"
+
+1541782947 c:\users\pcliving\desktop\gymsys\gymsys\funciones globales.h
+
+1541781186 c:\users\pcliving\desktop\gymsys\gymsys\clases.h
+
+1541694517 c:\users\pcliving\desktop\gymsys\gymsys\usuarios.h
+
+1541075267 c:\users\pcliving\desktop\gymsys\gymsys\fecha.h
+
+1541696553 c:\users\pcliving\desktop\gymsys\gymsys\dieta.h
+
+1540510951 c:\users\pcliving\desktop\gymsys\gymsys\medidas.h
+
+1541782947 c:\users\pcliving\desktop\gymsys\gymsys\clientes.h
+
+1541695392 c:\users\pcliving\desktop\gymsys\gymsys\ejercicios.h
+
+1541781103 c:\users\pcliving\desktop\gymsys\gymsys\rutina.h
+
+1541697638 c:\users\pcliving\desktop\gymsys\gymsys\ejercicios_x_rutina.h
+
+1541694062 c:\users\pcliving\desktop\gymsys\gymsys\pagos.h
+
+1541200969 c:\users\pcliving\desktop\gymsys\gymsys\configuracion.h
+
+1541784411 c:\users\pcliving\desktop\gymsys\gymsys\reportes.h
+
+1540513542 c:\users\pcliving\desktop\gymsys\gymsys\domicilio.h
+
+1541864198 c:\users\administrador\desktop\gymsys\gymsys\cupo_x_clase.h
+
+1541075763 c:\users\pcliving\desktop\gymsys\gymsys\cupo_x_clase.h
+
+1541782200 c:\users\pcliving\desktop\gymsys\gymsys\rutina_x_cliente.h
+
+1542139830 c:\users\administrador\desktop\gymsys\gymsys\rutina_x_cliente.h
+
+1542035205 source:c:\users\juanc\onedrive\escritorio\gymsys\gymsys\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<clocale>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Funciones Globales.h"
+	"Clases.h"
+	"Usuarios.h"
+	"Fecha.h"
+	"Dieta.h"
+	"Clientes.h"
+	"Medidas.h"
+	"Ejercicios.h"
+	"Rutina.h"
+	"Ejercicios_x_Rutina.h"
+	"Pagos.h"
+	"Configuracion.h"
+	"Reportes.h"
+	"Domicilio.h"
+	"Cupo_x_Clase.h"
+	"Rutina_x_Cliente.h"
+
+1542036617 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\funciones globales.h
+
+1541855435 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\clases.h
+
+1541694517 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\usuarios.h
+
+1541075267 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\fecha.h
+
+1541864348 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\dieta.h
+
+1541862609 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\medidas.h
+
+1542034248 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\clientes.h
+
+1541695392 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\ejercicios.h
+
+1541859229 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\rutina.h
+
+1541697638 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\ejercicios_x_rutina.h
+
+1541694062 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\pagos.h
+
+1542037914 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\configuracion.h
+
+1542037227 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\reportes.h
+
+1542034863 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\domicilio.h
+
+1541864198 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\cupo_x_clase.h
+
+1541858992 c:\users\juanc\onedrive\escritorio\gymsys\gymsys\rutina_x_cliente.h
+
+1542227675 source:c:\users\jagosta\juan\gymsys\gymsys\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<clocale>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Funciones Globales.h"
+	"Clases.h"
+	"Usuarios.h"
+	"Fecha.h"
+	"Dieta.h"
+	"Clientes.h"
+	"Medidas.h"
+	"Ejercicios.h"
+	"Rutina.h"
+	"Ejercicios_x_Rutina.h"
+	"Pagos.h"
+	"Configuracion.h"
+	"Reportes.h"
+	"Domicilio.h"
+	"Cupo_x_Clase.h"
+	"Rutina_x_Cliente.h"
+
+1542152291 c:\users\jagosta\juan\gymsys\gymsys\funciones globales.h
+
+1542152100 c:\users\jagosta\juan\gymsys\gymsys\clases.h
+
+1542225132 c:\users\jagosta\juan\gymsys\gymsys\usuarios.h
+	<conio.h>
+
+1542062221 c:\users\jagosta\juan\gymsys\gymsys\fecha.h
+
+1542228352 c:\users\jagosta\juan\gymsys\gymsys\dieta.h
+
+1542062505 c:\users\jagosta\juan\gymsys\gymsys\medidas.h
+
+1542227193 c:\users\jagosta\juan\gymsys\gymsys\clientes.h
+
+1542152164 c:\users\jagosta\juan\gymsys\gymsys\ejercicios.h
+
+1542152164 c:\users\jagosta\juan\gymsys\gymsys\rutina.h
+
+1542153109 c:\users\jagosta\juan\gymsys\gymsys\ejercicios_x_rutina.h
+
+1542227193 c:\users\jagosta\juan\gymsys\gymsys\pagos.h
+
+1542227891 c:\users\jagosta\juan\gymsys\gymsys\configuracion.h
+
+1542228423 c:\users\jagosta\juan\gymsys\gymsys\reportes.h
+
+1542061601 c:\users\jagosta\juan\gymsys\gymsys\domicilio.h
+
+1541864198 c:\users\jagosta\juan\gymsys\gymsys\cupo_x_clase.h
+
+1542139830 c:\users\jagosta\juan\gymsys\gymsys\rutina_x_cliente.h
+
+1542035205 source:c:\users\jagosta\desktop\gymsys\gymsys\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<clocale>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Funciones Globales.h"
+	"Clases.h"
+	"Usuarios.h"
+	"Fecha.h"
+	"Dieta.h"
+	"Clientes.h"
+	"Medidas.h"
+	"Ejercicios.h"
+	"Rutina.h"
+	"Ejercicios_x_Rutina.h"
+	"Pagos.h"
+	"Configuracion.h"
+	"Reportes.h"
+	"Domicilio.h"
+	"Cupo_x_Clase.h"
+	"Rutina_x_Cliente.h"
+
+1542057325 c:\users\jagosta\desktop\gymsys\gymsys\funciones globales.h
+
+1541855435 c:\users\jagosta\desktop\gymsys\gymsys\clases.h
+
+1541694517 c:\users\jagosta\desktop\gymsys\gymsys\usuarios.h
+
+1542057271 c:\users\jagosta\desktop\gymsys\gymsys\fecha.h
+
+1541864348 c:\users\jagosta\desktop\gymsys\gymsys\dieta.h
+
+1542034248 c:\users\jagosta\desktop\gymsys\gymsys\clientes.h
+
+1541862609 c:\users\jagosta\desktop\gymsys\gymsys\medidas.h
+
+1541695392 c:\users\jagosta\desktop\gymsys\gymsys\ejercicios.h
+
+1541859229 c:\users\jagosta\desktop\gymsys\gymsys\rutina.h
+
+1541697638 c:\users\jagosta\desktop\gymsys\gymsys\ejercicios_x_rutina.h
+
+1541694062 c:\users\jagosta\desktop\gymsys\gymsys\pagos.h
+
+1542037914 c:\users\jagosta\desktop\gymsys\gymsys\configuracion.h
+
+1542057555 c:\users\jagosta\desktop\gymsys\gymsys\reportes.h
+
+1542034863 c:\users\jagosta\desktop\gymsys\gymsys\domicilio.h
+
+1541864198 c:\users\jagosta\desktop\gymsys\gymsys\cupo_x_clase.h
+
+1541858992 c:\users\jagosta\desktop\gymsys\gymsys\rutina_x_cliente.h
+
